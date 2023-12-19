@@ -1,1 +1,27 @@
+h2 {
+    padding: 10px;
+}
 
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.footer a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s, box-shadow 0.3s;
+}
+
+.footer a:hover {
+    color: pink;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
